@@ -7,7 +7,7 @@ This repository focuses on **Linear Regression**, implementing a custom solution
 ✔ Use of **Normal Equation** and **Gradient Descent** for optimization.  
 ✔ Evaluation metrics: **R² Score, Mean Squared Error (MSE), L1/L2 Regularization (Lasso/Ridge)**.  
 ✔ Application of **linear regression** using **Normal Equation** and **Gradient Descent** and **Scikit-Learn** to predict house prices based on **area**.  
-✔ Application on **multivariable regression** to predict house prices based on variables like **area and number of bathrooms**.  
+✔ Application on **multivariate regression** to predict house prices based on variables like **area and number of bathrooms**.  
 ✔ Comparison with all models for validation.  
 
 ---
